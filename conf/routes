@@ -1,0 +1,3 @@
+
+POST        /api/products        com.github.dnvriend.iddd.agile.adapters.AgileController.createProduct
+GET         /api/products        com.github.dnvriend.iddd.agile.adapters.AgileController.getProducts
